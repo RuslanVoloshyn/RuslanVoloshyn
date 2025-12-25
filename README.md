@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My tools:<br>HTML • CSS • Gulp • Figma •JavaScript •TypeScript  • React • Next • Node • Redux • WordPress •Bootstrap • Tailwind  </h2>
+<h2 align="left">My tools:<br>HTML • CSS • Gulp • Figma •JavaScript •TypeScript  • React • Next • Node • Redux   • WordPress •Bootstrap • Tailwind  </h2>
 
 ###
 
